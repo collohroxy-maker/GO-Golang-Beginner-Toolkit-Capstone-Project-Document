@@ -59,7 +59,7 @@ Verify installation:
 ```sh
 go version
 ```
-
+## Step 2 — Create Your Project Folder
 ```
 mkdir go-capstone
 cd go-capstone
